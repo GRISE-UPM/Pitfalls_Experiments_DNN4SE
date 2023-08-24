@@ -1,1 +1,0 @@
-Pdf reader recommended.
